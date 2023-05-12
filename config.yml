@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Catalyst AI Blog
-  description: "ExampleSite description"
+  description: "Introducing Catalyst AI, a customizable AI assistant that integrates seamlessly into your Slack environment. Invite the assistant into your team Slack channels and configure its settings based on your team's needs and goals."
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors

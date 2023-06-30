@@ -10,7 +10,7 @@ Today, we aim to share insights from two significant projects - the use of AI to
 
 A fascinating highlight of the Caibot project was the AI's ability to overcome language barriers. Given documentation in English, Caibot was able to accept user inputs in Russian and provide answers drawn from the English documentation. This demonstrates the power of AI in breaking down language barriers and enabling seamless communication across cultures.
 
-![Insert image here](content/docs/image(11).png)
+![Insert image here]([content/docs/image(11).png](https://github.com/Bourn3Dynsty/catalystai_blog/blob/main/content/docs/image%20(11).png)
 
 AI has unveiled an array of possibilities for enhancing language communication, reshaping translation, transcription, and natural language processing. Real-time translation tools, AI-powered transcription services, and AI chatbots like ChatGPT are revolutionizing the way businesses approach communication, breaking language barriers, fostering collaboration, enhancing customer relationships, and facilitating seamless global expansion.
 

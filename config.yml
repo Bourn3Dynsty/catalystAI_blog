@@ -18,10 +18,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Catalyst AI Blog
   description: "Introducing Catalyst AI, a customizable AI assistant that integrates seamlessly into your Slack environment. Invite the assistant into your team Slack channels and configure its settings based on your team's needs and goals."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+ 
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -61,7 +61,7 @@ params:
     enabled: false # needs to be explicitly set
     title: Catalyst AI Blog
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "catalystsai.com"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -91,7 +91,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Bourn3Dynsty/catalystai_blog/tree/main/content/docs"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
